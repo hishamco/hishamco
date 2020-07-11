@@ -8,4 +8,4 @@
 - 🤔 I’m looking for help with Localization stuff.
 - 💬 Ask me about ASP.NET Core, RazorPages, Localization.
 - 📫 How to reach me: Twitter: @hishambinateya, Website: http://www.hishambinateya.com 
-- 👷‍ Building [Json Localizer for ASP.NET Core](https://github.com/hishamco/My.Extensions.Localization.Json), [Localization Resource Generator](https://github.com/hishamco/LocalizationResourceGenerator), [Translation Extractot Tool for SimplCommerce](https://github.com/hishamco/SqlExtractor), [OrchardCoreContrib](https://github.com/OrchardCoreContrib) and much more.
+- 👷‍ Building [Json Localizer for ASP.NET Core](https://github.com/hishamco/My.Extensions.Localization.Json), [Localization Resource Generator](https://github.com/hishamco/LocalizationResourceGenerator), [Translation Extractor Tool for SimplCommerce](https://github.com/hishamco/SqlExtractor), [OrchardCoreContrib](https://github.com/OrchardCoreContrib) and much more.
