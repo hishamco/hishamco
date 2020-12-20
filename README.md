@@ -9,3 +9,4 @@
 - 💬 Ask me about ASP.NET Core, RazorPages, Localization.
 - 📫 How to reach me: Twitter: @hishambinateya, Website: http://www.hishambinateya.com 
 - 👷‍ Building [Json Localizer for ASP.NET Core](https://github.com/hishamco/My.Extensions.Localization.Json), [Localization Resource Generator](https://github.com/hishamco/LocalizationResourceGenerator), [Translation Extractor Tool for SimplCommerce](https://github.com/hishamco/SqlExtractor), [OrchardCoreContrib](https://github.com/OrchardCoreContrib) and much more.
+- 💲 Donate my work to OSS via [PayPal](https://www.paypal.com/donate?hosted_button_id=56FYKDA477LU6)
