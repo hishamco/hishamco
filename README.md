@@ -13,3 +13,4 @@
 <hr/>
 <img src="https://github-readme-stats.vercel.app/api?username=hishamco&count_private=true&show_icons=true&hide_title=true" />
 <img src="https://github-profile-trophy.vercel.app/?username=hishamco&theme=flat&no-frame=true&margin-w=30" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hishamco&hide_title=true&layout=compact" />
